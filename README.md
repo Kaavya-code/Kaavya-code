@@ -15,7 +15,7 @@
 
 📚 I’m building this portfolio through real-world practice, freelancing, and self-study.
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com) *(Add your LinkedIn URL)*
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com) 
 
 ✨ More coming soon. Follow my journey!
 
