@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Kaavya-code/Kaavya-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Hi, I'm Kaavya! Aspiring Data Scientist
 
-Here are some ideas to get you started:
+🌱 I’m transitioning from 4+ years of manual testing experience into data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently learning:
+- Python for data analysis
+- SQL for querying databases
+- Machine learning fundamentals
+
+🛠️ Projects I’m working on:
+- 📊 Baby health data analysis (EDA)
+- 📝 Resume screening with NLP
+- 📈 Sales prediction (Time series)
+
+📚 I’m building this portfolio through real-world practice, freelancing, and self-study.
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com) *(Add your LinkedIn URL)*
+
+✨ More coming soon. Follow my journey!
+
